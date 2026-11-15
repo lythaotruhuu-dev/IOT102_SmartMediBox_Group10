@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34878162/README.md)
+[README.md](https://github.com/user-attachments/files/34878258/README.md)
 # 💊 SmartMediBox – Tủ thuốc thông minh
 
 Đồ án môn **IOT102** – Nhóm 10. Hệ thống tủ thuốc 3 ngăn (Sáng – Trưa – Tối) dùng **ESP32**, nhắc giờ uống thuốc theo thời gian thực, **tự mở đúng nắp ngăn thuốc**, theo dõi việc lấy thuốc và **cảnh báo lên điện thoại** qua Blynk khi người dùng quên thuốc.
@@ -215,8 +215,9 @@ SmartMediBox/
 - **Mạng yếu hoặc bị chặn (ví dụ ở trường):** dùng điểm phát WiFi từ điện thoại (băng tần 2.4 GHz, tên mạng không dấu).
 - Các tình huống đã mô phỏng trên máy tính: lấy thuốc đúng giờ, ngăn trống, quên thuốc rồi lấy muộn, đổi giờ trong ngày, mất WiFi.
 
-Link mô phỏng (Wokwi): https://wokwi.com/projects/478909463441983489
-Video demo:  https://www.youtube.com/watch?v=POlntURg4F4
+Link mô phỏng: https://wokwi.com/projects/478909463441983489
+Link video demo: https://www.youtube.com/watch?v=POlntURg4F4
+Slide báo cáo: https://www.canva.com/design/DAHaWXNFT4I/IflX71q-aVDcYSr0mMzHmg/edit
 
 ## Hạn chế và hướng phát triển
 
@@ -238,13 +239,13 @@ Video demo:  https://www.youtube.com/watch?v=POlntURg4F4
 
 ## Thành viên
 
-| Họ và tên | MSSV |
+| Họ và tên | MSSV | Phụ trách |
 |---|---|---|
-| Lý Thu Thảo | HE204379 |
-| Lê Bá Dũng | HE204561 |
-| Nguyễn Tấn Dũng | HE204432 |
-| Đoàn Anh Tuấn | SE200905 | 
+| Lý Thu Thảo | HE204379 | Blynk |
+| Lê Bá Dũng | HE204561 | Wokwi |
+| Nguyễn Tấn Dũng | HE204432 | Linh kiện |
+| Đoàn Anh Tuấn | SE200905 | Lắp mạch |
 
 ## License
 
-
+_[Chọn license nếu muốn công khai, ví dụ MIT, hoặc ghi "Dự án học tập"]_
