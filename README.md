@@ -215,8 +215,8 @@ SmartMediBox/
 - **Mạng yếu hoặc bị chặn (ví dụ ở trường):** dùng điểm phát WiFi từ điện thoại (băng tần 2.4 GHz, tên mạng không dấu).
 - Các tình huống đã mô phỏng trên máy tính: lấy thuốc đúng giờ, ngăn trống, quên thuốc rồi lấy muộn, đổi giờ trong ngày, mất WiFi.
 
-Link mô phỏng (Wokwi): _[điền link]_
-Video demo: _[điền link]_
+Link mô phỏng (Wokwi): https://wokwi.com/projects/478909463441983489
+Video demo:  https://www.youtube.com/watch?v=POlntURg4F4
 
 ## Hạn chế và hướng phát triển
 
@@ -238,13 +238,13 @@ Video demo: _[điền link]_
 
 ## Thành viên
 
-| Họ và tên | MSSV | Phụ trách |
+| Họ và tên | MSSV |
 |---|---|---|
-| Lý Thu Thảo | HE204379 | _[điền]_ |
-| Lê Bá Dũng | HE204561 | _[điền]_ |
-| Nguyễn Tấn Dũng | HE204432 | _[điền]_ |
-| Đoàn Anh Tuấn | SE200905 | _[điền]_ |
+| Lý Thu Thảo | HE204379 |
+| Lê Bá Dũng | HE204561 |
+| Nguyễn Tấn Dũng | HE204432 |
+| Đoàn Anh Tuấn | SE200905 | 
 
 ## License
 
-_[Chọn license nếu muốn công khai, ví dụ MIT, hoặc ghi "Dự án học tập"]_
+
